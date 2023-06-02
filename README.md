@@ -1,6 +1,6 @@
 # React Calculator
 
-![Logo](./public/png-clipart-green-desk-calculator-cartoon-illustration-calculator-supplies-electronics-removebg-preview.png)
+![Logo](https://imgtr.ee/images/2023/06/02/ShbJX.png)
 
 This is a simple calculator application built with React. It provides basic math operations, supports parentheses, and allows you to perform calculations on the go. The calculator has a user-friendly interface with a display showing both the input expression and the calculated result.
 
