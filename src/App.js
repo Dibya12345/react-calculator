@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import { useState } from "react";
 
-
 const App = () => {
   const [input, setInput] = useState("");
   const [output, setOutput] = useState("");
@@ -12,7 +11,7 @@ const App = () => {
     calculateOutput();
   };
 
-  const calculateOutput = () => {
+  const calculateOutput = async () => {
     try {
       // Using eval() for simplicity, but be cautious as it can be a securityrisk
       const result = eval(input);
