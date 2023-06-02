@@ -10,7 +10,7 @@ This is a simple calculator application built with React. It provides basic math
 - Parenthesis support: You can use parentheses to group and prioritize calculations.
 - Reset: Clear the input and result with the reset button.
 - Real-time calculation: The output is updated instantly as you input the expression.
-- iPhone calculator-style design: The calculator UI is styled to resemble the look and feel of an iPhone calculator.
+
 
 ## Usage
 
